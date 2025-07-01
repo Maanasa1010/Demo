@@ -12,3 +12,13 @@ git push origin -u <branch name>
 git fetch - updates local changes from remote
 git pull - updates the changes
 git pull origin <branch name> 
+
+git clone <https link> <foldername> - we can retreive the deleted files or folders
+cat - concatenate 
+touch <filename> - creates a file
+echo " " - like the print statement
+cd <foldername> - goes into the folder
+cd .. - comes back
+rm - remove
+ls - lists the available files
+ls -a - lists the available and hidden files as well
