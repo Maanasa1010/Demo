@@ -1,0 +1,11 @@
+git init - initalizing a repo
+git status - can see changes
+git add . - track all files
+git add <filename> - tracks particular file
+git add <filename>... - tracks multiple files
+git commit -m <message> - committing with msg
+
+git push - send to remote
+git push origin <branch name> - 
+git push origin -u <branch name> 
+
