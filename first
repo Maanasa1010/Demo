@@ -9,3 +9,6 @@ git push - send to remote
 git push origin <branch name> - 
 git push origin -u <branch name> 
 
+git fetch - updates local changes from remote
+git pull - updates the changes
+git pull origin <branch name> 
